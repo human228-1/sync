@@ -29,7 +29,7 @@
     "lodash": "^4.17.5",
     "morgan": "^1.6.1",
     "mysql": "^2.9.0",
-    "nodemailer": "^4.4.2",
+    "nodemailer": "^6.9.9",
     "prom-client": "^10.0.2",
     "proxy-addr": "^2.0.2",
     "pug": "^2.0.0-beta3",
