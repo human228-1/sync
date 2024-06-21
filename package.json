@@ -32,7 +32,7 @@
     "nodemailer": "^4.4.2",
     "prom-client": "^10.0.2",
     "proxy-addr": "^2.0.2",
-    "pug": "^2.0.0-beta3",
+    "pug": "^3.0.0",
     "redis": "^2.4.2",
     "sanitize-html": "^1.14.1",
     "serve-static": "^1.13.2",
